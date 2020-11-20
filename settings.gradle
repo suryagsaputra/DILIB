@@ -1,0 +1,4 @@
+include ':koinsdk'
+include ':hiltsdk'
+include ':app'
+rootProject.name = "HiltTest"
